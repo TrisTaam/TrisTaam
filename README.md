@@ -6,7 +6,7 @@ Hi there, I'm Tri Tam!
 [![Codeforce](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/TrisTaam) 
 
 ### Info
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning Kotlin, C++, Python
 - 🔭 Studying IT at PTIT
 - 📫 How to reach me: letritam.workvn@gmail.com
 - 🖥️ ICPC ID: [https://icpc.global/ICPCID/OUFHI7070TSE](https://icpc.global/ICPCID/OUFHI7070TSE)
